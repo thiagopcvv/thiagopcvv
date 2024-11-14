@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello! I'm [Thiago Pires]
 
-<!--
-**thiagopcvv/thiagopcvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Web & Mobile Developer | 💡 Tech Enthusiast | 🌍 Problem Solver
 
-Here are some ideas to get you started:
+## About Me
+I'm a versatile developer specializing in web and mobile application development. I have a strong foundation in **JavaScript, TypeScript**, and **PHP**, and enjoy building scalable, efficient, and user-friendly applications. With a focus on delivering quality code and solutions, I continuously explore and adopt new technologies to enhance my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Core Skills
+- **Languages**: JavaScript, TypeScript, PHP
+- **Frameworks**: React, Next.js, React Native, Expo, Laravel
+- **Databases**: PostgreSQL, MongoDB
+- **Testing Tools**: Jest, Testing-Library, PHPUnit
+- **Specialization**: Mobile Development
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/thiago-pires-03bb1b309/)
+
