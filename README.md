@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Thiago Pires]
+# 👋 Hello! I'm Thiago Pires
 
 👨‍💻 Web & Mobile Developer | 💡 Tech Enthusiast | 🌍 Problem Solver
 
