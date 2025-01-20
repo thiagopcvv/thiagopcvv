@@ -2,7 +2,7 @@
 
 ### 🚀 Core Skills
 - **Languages**: JavaScript, TypeScript, PHP
-- **Frameworks**: React, Next.js, React Native, Expo, Laravel
+- **Frameworks**: JQuery, React, Next.js, React Native, Expo, Laravel
 - **Databases**: PostgreSQL, MongoDB
 - **Testing Tools**: Jest, Testing-Library, PHPUnit
 - **Specialization**: Mobile Development
